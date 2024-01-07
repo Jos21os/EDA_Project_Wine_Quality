@@ -1,5 +1,4 @@
 # EDA_Project_Wine_Quality
-An exploratory analysis of data (EDA) to understand if some wine characteristics affect wine quality.
 
 In this project, an exploratory data analysis (EDA) exercise of wines and their quality was applied.
 
